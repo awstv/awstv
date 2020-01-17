@@ -269,15 +269,15 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 http://198.255.23.18:2095/streams/134_.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPmWepfiBaI0FYvitHzdYTICjr6s6em8FsTOnvnppy-FEn751l" group-title="KIDS",NICK HD
 http://198.255.23.18:2095/streams/135_.m3u8
-#EXTINF:-1 tvg-id="NickJr.br." tvg-name="NICK JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvCQfofu8GpG_wVx0Hh6VtpRHfoS56P9oeEGSEqJucbyoHlh4L" group-title="KIDS",NICK JR CH 1
+#EXTINF:-1 tvg-id="NickJr.br." tvg-name="NICK JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvCQfofu8GpG_wVx0Hh6VtpRHfoS56P9oeEGSEqJucbyoHlh4L" group-title="KIDS",NICK JR RU
 http://198.255.23.18:2095/streams/139_.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJkkg2OFsJEs9MunfUBKF5ATHuOBCqKJDDmb4O05VglC_6l97-" group-title="KIDS",NICK JR CH 2
 http://203.207.56.228/live/iptv018.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7XQKGY6lV81RQSj-JGlmc69quhLMLsgS3F3ijH0wlVvprFITf" group-title="KIDS",NICK ASIA
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/nickelodeon-283578.png" group-title="KIDS",Nickelodeon CH 1
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/nickelodeon-283578.png" group-title="KIDS",Nickelodeon ID
 http://203.207.56.228/live/iptv014.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/nickelodeon-283578.png" group-title="KIDS",Nickelodeon CH 2
+#EXTINF:-1 tvg-logo="https://cdn.iconscout.com/icon/free/png-256/nickelodeon-283578.png" group-title="KIDS",Nickelodeon EN
 http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRccXoU8xaaT50-QrhqZAUg0sVpJ7mhfuUdhHDnv2GBy4yoz0dX" group-title="KIDS",POP
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
