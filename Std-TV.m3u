@@ -312,12 +312,8 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="Sports Global",Edge Sports 2
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sports Global",Fight Sports 1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sports Global",Fight Sports 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sports Global",Fight Sports 3
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",COMBATE HD
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzFYx6ZW5It0EekTIirZeKDBx7x2DdNo3C3Sr71-PMSmW8sBDP" group-title="Sports Global",COMBATE HD
 http://198.255.23.18:2095/streams/49_.m3u8
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",SPORTV HD
 http://198.255.23.18:2095/streams/70_.m3u8
