@@ -376,6 +376,9 @@ http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Bein Sports",beIN Sports HD 1
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqdjHHR.png" group-title="Bein Sports",beIN Sports HD 1 (altr 1)
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+
 ########################################################### Sports Global ###################################################
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2csn8W-g5EfZcwl1HxNl3svam-zQ8phhvNN_0og4TTnckSBOA" group-title="Sports Global",KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
