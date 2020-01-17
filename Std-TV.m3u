@@ -63,8 +63,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLu-aGSd9crhogw4kZyp8ZLW1pFiPOgwIWUzxbUbQwvVmxEFYm" group-title="INDONESIA",Gemilang
 http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHILMK-k8CaT8GS_H7-enH8hSl0Tw9qpK2_tAejJs6ImaNeypf" group-title="INDONESIA",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZu779il9Cj_8qtnVsCAdKs)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6yJLx8PkVOLRGaWB4SecCHhxIzEsTijP0JVq3umu64mUI1Y3V" group-title="INDONESIA",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRodW5rYWJsZS5hbmRyb2lkLnJhZGFydHZfbGFtcHVuZy5SYWRhclRWTmV3c19pY29uXzE1NDkyNzc3NDZfMDky/icon.png?w=170&fakeurl=1" group-title="INDONESIA",Radar
@@ -199,6 +197,8 @@ http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s
 http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3d5-J4gmPqOHH1uSThuHV_F9h5vJTdXpCMwIr4pMt4-OAFT3N" group-title="GLOBAL",FOX PREMIUM 1 HD 
 http://198.255.23.18:2095/streams/166_.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHILMK-k8CaT8GS_H7-enH8hSl0Tw9qpK2_tAejJs6ImaNeypf" group-title="GLOBAL",TV3
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZu779il9Cj_8qtnVsCAdKs)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 group-title="RELIGI",MEKKAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="RELIGI", MADINAH
