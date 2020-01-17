@@ -197,6 +197,8 @@ http://210.210.155.35/uq2663/h/h19/index.m3u8
 http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSovMo_RdlOrmsAuKmgaN9qs5WKhEs6Mr_7wmsV0MfpvAa6aXRH" group-title="GLOBAL",ZEE BIOSKOP
 http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3d5-J4gmPqOHH1uSThuHV_F9h5vJTdXpCMwIr4pMt4-OAFT3N" group-title="GLOBAL",FOX PREMIUM 1 HD 
+http://198.255.23.18:2095/streams/166_.m3u8
 #EXTINF:-1 group-title="RELIGI",MEKKAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="RELIGI", MADINAH
@@ -393,8 +395,6 @@ http://livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 http://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="Sports Global",True Premier Football HD 4
 http://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3d5-J4gmPqOHH1uSThuHV_F9h5vJTdXpCMwIr4pMt4-OAFT3N" group-title="FOX Sports",FOX PREMIUM 1 HD "LALIGA"
-http://198.255.23.18:2095/streams/166_.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.eredivisie-live/icon/icon.png?itok=vgJ5l0yH" group-title="FOX Sports",FOX SPORTS 1 HD
 https://mj1b2xsspj.singularcdn.net.br/encompass/FOX_Sports/master_Layer3.m3u8
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.eredivisie-live/icon/icon.png?itok=vgJ5l0yH" group-title="FOX Sports",FOX SPORTS 1 SD
