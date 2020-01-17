@@ -315,15 +315,15 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzFYx6ZW5It0EekTIirZeKDBx7x2DdNo3C3Sr71-PMSmW8sBDP" group-title="Sports Global",COMBATE HD
 http://198.255.23.18:2095/streams/49_.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",SPORTV HD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLULuF1Yc80cGMhyKbhXqMXcggI4U7XR3cPLoIQVEEjcHOBjcW" group-title="Sports Global",SPORTV HD
 http://198.255.23.18:2095/streams/70_.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",SPORTV 2 HD
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLULuF1Yc80cGMhyKbhXqMXcggI4U7XR3cPLoIQVEEjcHOBjcW" group-title="Sports Global",SPORTV 2 HD
 http://198.255.23.18:2095/streams/72_.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",SPORTV 3 HD
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLULuF1Yc80cGMhyKbhXqMXcggI4U7XR3cPLoIQVEEjcHOBjcW" group-title="Sports Global",SPORTV 3 HD
 http://198.255.23.18:2095/streams/74_.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",OFF HD
 http://198.255.23.18:2095/streams/60_.m3u8
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",BAND SPORTS HD
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://sport-tv-guide.live/images/stations/a1227.png" group-title="Sports Global",BAND SPORTS HD
 http://198.255.23.18:2095/streams/47_.m3u8
 #EXTINF:-1 tvg-name="EI PLUS 1 HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",EI PLUS 1 HD
 http://enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-720p.m3u8
@@ -347,7 +347,7 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd
 http://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Extra/master_Layer1.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",ESPN EXTRA SD
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",FISH TV HD
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQxFFRYHHM3eMAayHF8K2xOu0UR_d9w6DDklLPrs44s0V4Wqq4" group-title="Sports Global",FISH TV HD
 http://198.255.23.18:2095/streams/109_.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://img.icons8.com/clouds/2x/tv.png" group-title="Sports Global",SPACE HD (CHAMPIONS LEAGUE)
 http://198.255.23.18:2095/streams/200_.m3u8
